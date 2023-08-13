@@ -1,0 +1,8 @@
+1> Study Git & Git Hub
+2> Flask
+3> Revise Loggin
+1. Loggin file
+2. specific files
+4> Revise Python 
+5> See SQL 
+6> Revise OOPs
