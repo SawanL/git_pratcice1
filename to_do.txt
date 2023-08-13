@@ -6,3 +6,4 @@
 4> Revise Python 
 5> See SQL 
 6> Revise OOPs need to see if not 
+7> change from git 
